@@ -10,7 +10,9 @@ I'm **Muhammad Shal Al Faraz**, a Student at SMK Muhammadiyah 3 Tangerang Selata
 - 🏫 Student at SMK Muhammadiyah 3 Tangerang Selatan
 - 📝 [Resume]()
 
-**Languages and Tools:** - Languages:
+**Languages and Tools:**
+
+- Languages:
     
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,4 +31,3 @@ I'm **Muhammad Shal Al Faraz**, a Student at SMK Muhammadiyah 3 Tangerang Selata
 
     ![Figma](https://img.shields.io/badge/Figma-black.svg?style=for-the-badge&logo=Figma&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-823AF3.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  
